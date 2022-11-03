@@ -1,0 +1,15 @@
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\Toplam.exe
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\Toplam.deps.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\Toplam.runtimeconfig.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\Toplam.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\ref\Toplam.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\bin\Debug\net6.0\Toplam.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.csproj.AssemblyReference.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.AssemblyInfoInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.AssemblyInfo.cs
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\ref\Toplam.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Toplam\obj\Debug\net6.0\Toplam.genruntimeconfig.cache
