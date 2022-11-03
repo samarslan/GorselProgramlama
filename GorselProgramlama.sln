@@ -4,6 +4,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hafta6", "Hafta6", "{ED01F1
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toplam", "Toplam\Toplam.csproj", "{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizi", "Dizi\Dizi.csproj", "{00F3A533-E415-4B11-AACD-AA884AED6D13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -11,11 +13,16 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5} = {ED01F11E-AC19-4963-BDF1-B8556F9F7101}
+		{00F3A533-E415-4B11-AACD-AA884AED6D13} = {ED01F11E-AC19-4963-BDF1-B8556F9F7101}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6AC80772-10EE-46CF-B5B6-CB0B5C7306C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F3A533-E415-4B11-AACD-AA884AED6D13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F3A533-E415-4B11-AACD-AA884AED6D13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F3A533-E415-4B11-AACD-AA884AED6D13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F3A533-E415-4B11-AACD-AA884AED6D13}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\Dizi.exe
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\Dizi.deps.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\Dizi.runtimeconfig.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\Dizi.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\ref\Dizi.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\bin\Debug\net6.0\Dizi.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.csproj.AssemblyReference.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.AssemblyInfoInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.AssemblyInfo.cs
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\ref\Dizi.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Dizi\obj\Debug\net6.0\Dizi.genruntimeconfig.cache
