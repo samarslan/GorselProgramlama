@@ -1,0 +1,15 @@
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\Kelime.exe
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\Kelime.deps.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\Kelime.runtimeconfig.json
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\Kelime.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\ref\Kelime.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\bin\Debug\net6.0\Kelime.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.csproj.AssemblyReference.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.AssemblyInfoInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.AssemblyInfo.cs
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\ref\Kelime.dll
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.pdb
+C:\Users\sametarslan\RiderProjects\GorselProgramlama\Kelime\obj\Debug\net6.0\Kelime.genruntimeconfig.cache
