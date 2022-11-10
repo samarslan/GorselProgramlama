@@ -1,23 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Toplam\\Toplam.csproj": {}
+    "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Toplam\\Toplam.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Toplam\\Toplam.csproj": {
+    "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Toplam\\Toplam.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Toplam\\Toplam.csproj",
+        "projectUniqueName": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Toplam\\Toplam.csproj",
         "projectName": "Toplam",
-        "projectPath": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Toplam\\Toplam.csproj",
+        "projectPath": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Toplam\\Toplam.csproj",
         "packagesPath": "C:\\Users\\sametarslan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Toplam\\obj\\",
+        "outputPath": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Toplam\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\sametarslan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,17 +50,11 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "frameworkReferences": {
-            "Microsoft.NETCore.App": {
-              "privateAssets": "all"
-            }
-          },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
         }
       }
     }
