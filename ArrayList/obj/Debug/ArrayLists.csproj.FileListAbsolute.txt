@@ -1,0 +1,7 @@
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\bin\Debug\ArrayList.exe.config
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\bin\Debug\ArrayList.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\bin\Debug\ArrayList.pdb
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\obj\Debug\ArrayLists.csproj.AssemblyReference.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\obj\Debug\ArrayLists.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\obj\Debug\ArrayList.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\ArrayList\obj\Debug\ArrayList.pdb
