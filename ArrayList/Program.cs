@@ -35,6 +35,7 @@ namespace ArrayLists
                 Console.WriteLine(eleman + " - " + eleman.GetType());
             }
             Console.WriteLine("--------------------------------------");
+
             Console.ReadLine( );
         }
     }

@@ -1,0 +1,7 @@
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\bin\Debug\Random.exe.config
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\bin\Debug\Random.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\bin\Debug\Random.pdb
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\obj\Debug\Randoms.csproj.AssemblyReference.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\obj\Debug\Randoms.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\obj\Debug\Random.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Random\obj\Debug\Random.pdb
