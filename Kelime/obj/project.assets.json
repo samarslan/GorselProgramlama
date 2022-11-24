@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Kelime\\Kelime.csproj",
+      "projectUniqueName": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Kelime\\Kelime.csproj",
       "projectName": "Kelime",
-      "projectPath": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Kelime\\Kelime.csproj",
+      "projectPath": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Kelime\\Kelime.csproj",
       "packagesPath": "C:\\Users\\sametarslan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sametarslan\\Source\\Repos\\samarslan\\GorselProgramlama\\Kelime\\obj\\",
+      "outputPath": "C:\\Users\\sametarslan\\RiderProjects\\GorselProgramlama\\Kelime\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -62,6 +62,11 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.414\\RuntimeIdentifierGraph.json"
       }
     }
