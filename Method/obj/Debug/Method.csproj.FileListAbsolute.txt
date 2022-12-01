@@ -4,3 +4,9 @@ C:\Users\sametarslan\RiderProjects\GorselProgramlama\Method\obj\Debug\Method.csp
 C:\Users\sametarslan\RiderProjects\GorselProgramlama\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
 C:\Users\sametarslan\RiderProjects\GorselProgramlama\Method\obj\Debug\Method.exe
 C:\Users\sametarslan\RiderProjects\GorselProgramlama\Method\obj\Debug\Method.pdb
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\bin\Debug\Method.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\bin\Debug\Method.pdb
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\obj\Debug\Method.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\Method\obj\Debug\Method.pdb

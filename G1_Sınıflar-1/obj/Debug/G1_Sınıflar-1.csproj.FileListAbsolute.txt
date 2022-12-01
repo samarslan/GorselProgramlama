@@ -1,0 +1,7 @@
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\obj\Debug\G1_Sınıflar-1.csproj.AssemblyReference.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\obj\Debug\G1_Sınıflar-1.csproj.CoreCompileInputs.cache
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\bin\Debug\G1_Sınıflar-1.exe.config
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\bin\Debug\G1_Sınıflar-1.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\bin\Debug\G1_Sınıflar-1.pdb
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\obj\Debug\G1_Sınıflar-1.exe
+C:\Users\sametarslan\Source\Repos\samarslan\GorselProgramlama\G1_Sınıflar-1\obj\Debug\G1_Sınıflar-1.pdb
